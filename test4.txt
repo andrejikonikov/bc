@@ -1,0 +1,9 @@
+Studentas Vardenis Pavardenis,... studiju programa,... kursas,... grupe.
+1 testas. Tikslas tarp faktu. Kelias tuscias
+1) Taisykles
+B A
+Z C
+2) Faktai
+A Z
+3) Tikslas
+Z

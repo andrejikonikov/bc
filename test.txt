@@ -1,0 +1,10 @@
+Studentas Vardenis Pavardenis,... studiju programa,... kursas,... grupe.
+1 testas. Paskaitos pavyzdys
+1) Taisykles
+Z F B
+F C D
+D A
+2) Faktai
+A B C
+3) Tikslas
+Z

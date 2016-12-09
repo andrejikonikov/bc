@@ -1,0 +1,13 @@
+Studentas Andrej Ikonikov, Informatika(KM) studijų programa, 4 kursas, 1 grupė.
+1 testas. Čyras vs. Negnevitsky; Negnevitsky laimi, bet su atliekama taisykle
+1) Taisyklės
+Z D
+D C
+C B
+B A
+G A
+Z G
+2) Faktai
+A
+3) Tikslas
+Z

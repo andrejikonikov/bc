@@ -1,0 +1,14 @@
+Studentas Andrej Ikonikov, Informatika(KM) studijų programa, 4 kursas, 1 grupė.
+1 testas. Paskaitos pavyzdys
+1) Taisyklės
+L A
+K L
+A D
+M D
+Z F B
+F C D
+D A
+2) Faktai
+A B C
+3) Tikslas
+Z
