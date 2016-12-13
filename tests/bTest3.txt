@@ -1,7 +1,7 @@
-Studentas Vardenis Pavardenis,... studiju programa,... kursas,... grupe.
+Studentas Andrej Ikonikov, Informatikos studiju programa, 4 kursas, KM1 grupe.
 1 testas. Paskaitos pavyzdys
 1) Taisykles
-Z D C
+Z C D
 D C
 C B
 B A

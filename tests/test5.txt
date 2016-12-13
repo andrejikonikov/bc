@@ -1,0 +1,9 @@
+Studentas Andrej Ikonikov, Informatikos studiju programa, 4 kursas, KM1 grupe.
+1 testas. Kelias neegzistuoja
+1) Taisykles
+B A
+Z C
+2) Faktai
+A
+3) Tikslas
+Z

@@ -1,0 +1,12 @@
+Studentas Andrej Ikonikov, Informatikos studiju programa, 4 kursas, KM1 grupe.
+6 testas. Negnevitsky;
+1) Taisyklës
+Z Y D
+Y X B E
+X A
+L C
+N L M
+2) Faktai
+A B C D E
+3) Tikslas
+Z

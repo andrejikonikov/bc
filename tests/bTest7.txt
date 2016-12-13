@@ -1,0 +1,10 @@
+Studentas Andrej Ikonikov, Informatikos studiju programa, 4 kursas, KM1 grupe.
+1 testas. Paskaitos pavyzdys
+1) Taisykles
+Z A
+Z B
+Z C
+2) Faktai
+C
+3) Tikslas
+Z

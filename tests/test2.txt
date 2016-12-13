@@ -1,4 +1,4 @@
-Studentas Andrej Ikonikov, Informatika(KM) studijų programa, 4 kursas, 1 grupė.
+Studentas Andrej Ikonikov, Informatikos studiju programa, 4 kursas, KM1 grupe.
 1 testas. Cyras vs. Negnevitsky; Cyras laimi
 1) Taisyklės
 Z G
